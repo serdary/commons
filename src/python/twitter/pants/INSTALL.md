@@ -16,6 +16,7 @@ If none of this made any sense to you, run `python -V`.  If it says `Python
 # TL;DR #
 
     $ git clone git://github.com/twitter/commons && cd commons
+    $ ./pants.bootstrap
     $ ./pants
 
 
